@@ -34,10 +34,9 @@ Project Components
 Repository Structure
 
 CampusFix/
-├── Website/
-│   ├── src/
-│   ├── public/
-│   └── package.json
+├── index.html
+|__ sript.js
+|__ style.css
 ├── c-app/
 │   ├── CampusFix.c
 │   ├── complaints.dat
